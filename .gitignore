@@ -21,3 +21,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+**/target/
+**/nb-configuration.xml
+
+/nbproject/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.idea
+*.iml
